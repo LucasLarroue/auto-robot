@@ -1,14 +1,13 @@
-(6) D12---- 18 (MCU)
-D4 --- 6 (MCU)
-(10) D8 --- 14 (MCU)
-D7 ---- 13 (MCU)
-PWM2A (D11) --- 17 (MCU)
-PWM1B (D10) --- 16 (MCU)
-PWM1A (D9) --- 15 (MCU)
-PWM0A (D6) --- 12 (MCU)
-PWM0B (D5) --- 11 (MCU)
-PWM2B (D3) --- 5 (MCU)
-
+PWM2B     (D3)  --- 5   (MCU)
+DIR_CLK   (D4)  --- 6   (MCU)
+PWM0B     (D5)  --- 11  (MCU)
+PWM0A     (D6)  --- 12  (MCU)
+DIR_EN    (D7)  --- 13  (MCU)
+DIR_SER   (D8)  --- 14  (MCU)
+PWM1A     (D9)  --- 15  (MCU)
+PWM1B     (D10) --- 16  (MCU)
+PWM2A     (D11) --- 17  (MCU)
+DIR_LATCH (D12) --- 18  (MCU)
 
 violeta - amarillo --> continuidad cuando gira a la izq
 violeta - verde --> continuidad cuando gira a la der
